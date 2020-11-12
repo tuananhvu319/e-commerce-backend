@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b1eb57c3-0f5f-408a-965c-ec86f58f9bb5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/e-commerce-backend" />
+  </component>
+  <component name="ProjectId" id="1haEe7wfv8clbavLbrUKC5e7xnp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.18.3" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.12.59" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1eb57c3-0f5f-408a-965c-ec86f58f9bb5" name="Default Changelist" comment="" />
+      <created>1600240895591</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600240895591</updated>
+      <workItem from="1600240896835" duration="360000" />
+      <workItem from="1600241315506" duration="696000" />
+      <workItem from="1600324595854" duration="2988000" />
+      <workItem from="1600499826255" duration="2714000" />
+      <workItem from="1600604088107" duration="2296000" />
+      <workItem from="1600683034433" duration="5598000" />
+      <workItem from="1601100561663" duration="1563000" />
+      <workItem from="1601187632452" duration="179000" />
+      <workItem from="1601254867475" duration="1264000" />
+      <workItem from="1601951589123" duration="724000" />
+      <workItem from="1602071481788" duration="1203000" />
+      <workItem from="1602139614302" duration="1299000" />
+      <workItem from="1602247549100" duration="591000" />
+      <workItem from="1602314963522" duration="1322000" />
+      <workItem from="1602397607282" duration="605000" />
+      <workItem from="1602468153226" duration="3000" />
+      <workItem from="1602577879394" duration="654000" />
+      <workItem from="1602662400212" duration="615000" />
+      <workItem from="1602735647107" duration="607000" />
+      <workItem from="1602837603244" duration="843000" />
+      <workItem from="1603153385651" duration="336000" />
+      <workItem from="1603153877677" duration="1827000" />
+      <workItem from="1603354021039" duration="160000" />
+      <workItem from="1603545880607" duration="1819000" />
+      <workItem from="1603593122976" duration="1372000" />
+      <workItem from="1603757217478" duration="4419000" />
+      <workItem from="1604363060293" duration="4366000" />
+      <workItem from="1604382037816" duration="3684000" />
+      <workItem from="1604967935848" duration="4553000" />
+      <workItem from="1604982775140" duration="4069000" />
+      <workItem from="1605056105880" duration="1194000" />
+      <workItem from="1605148419963" duration="950000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600501042963">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600501042963" />
+    <state x="763" y="398" width="561" height="204" key="Github.ShareDialog" timestamp="1600241920501">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="763" y="398" width="561" height="204" key="Github.ShareDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600241920501" />
+    <state width="1877" height="284" key="GridCell.Tab.0.bottom" timestamp="1605065497037">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="284" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605065497037" />
+    <state width="1340" height="265" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602740862856" />
+    <state width="1877" height="284" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604996355445" />
+    <state width="1877" height="284" key="GridCell.Tab.0.center" timestamp="1605065497037">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="284" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605065497037" />
+    <state width="1340" height="265" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602740862856" />
+    <state width="1877" height="284" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604996355445" />
+    <state width="1877" height="284" key="GridCell.Tab.0.left" timestamp="1605065497037">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="284" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605065497037" />
+    <state width="1340" height="265" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602740862855" />
+    <state width="1877" height="284" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604996355445" />
+    <state width="1877" height="284" key="GridCell.Tab.0.right" timestamp="1605065497037">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="284" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605065497037" />
+    <state width="1340" height="265" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602740862856" />
+    <state width="1877" height="284" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604996355445" />
+    <state width="205" height="457" key="HiddenNamespacesPopup" timestamp="1600501157408">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="205" height="457" key="HiddenNamespacesPopup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600501157408" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1600326903127">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600326903127" />
+  </component>
+</project>
